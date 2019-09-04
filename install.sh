@@ -1,6 +1,6 @@
 #!/bin/bash
-apt-get update
-apt-get install kodi
+sudo apt-get update
+sudo apt-get install kodi
 
 echo "copy Videos to /home/pi/Videos"
 echo "Press Any key to continue"
